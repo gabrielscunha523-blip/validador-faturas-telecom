@@ -1,0 +1,7 @@
+cd C:\Users\dev\desktop\7\projetos_py\validador-faturas
+venv\Scripts\activate
+python src\main.py
+
+sair
+deactivate
+exit
